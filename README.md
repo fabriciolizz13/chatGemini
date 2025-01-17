@@ -1,0 +1,2 @@
+# chatGemini
+projeto pessoal
